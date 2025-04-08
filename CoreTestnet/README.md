@@ -1,2 +1,2 @@
 # Tockchain
-Public repository to host Tockchain-related files
+This public repository contains files related to the Tockchain Core Testnets.
