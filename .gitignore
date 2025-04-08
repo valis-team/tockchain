@@ -1,0 +1,72 @@
+#################################
+# Valis Generic .gitignore file #
+#################################
+# Note: Modify this file based on project-specific needs
+
+# macOS-specific files
+.DS_Store
+**/.DS_Store
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+~$*
+$Recycle.Bin/
+RECYCLER/
+
+# Editor-specific files
+*~
+.*.swp
+.*.swo
+
+# Private key files
+*.key
+*.pem
+
+# Environment variable files
+*.env
+
+# Secrets directory
+secrets/
+
+# Log files
+*.log
+logs/
+
+# Temporary files and directories
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Configuration files (remove if configs need tracking)
+*.config
+*.cfg
+*.ini
+
+# Sensitive data files
+*.dat
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.bak
+*.old
+*.backup
+
+# Credentials files
+*.credentials
+
+# Build artifacts (optional)
+*.o
+*.exe
+*.dll
+*.so
+
+# Dependency directories (optional)
+node_modules/
+vendor/
+dist/
