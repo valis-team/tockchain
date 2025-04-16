@@ -1,2 +1,2 @@
 # Tockchain Threshold Signatures
-This folder contains binaries for managing threshold signatures in Tockchain.
+This folder contains binaries for managing threshold signatures in the Tockchain Core Testnets.

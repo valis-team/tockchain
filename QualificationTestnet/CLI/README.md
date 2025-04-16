@@ -1,1 +1,1 @@
-This folder contains the CLI binaries for Tockchain. You can download and use them to interact with the testnet.
+This folder contains the CLI binaries for Tockchain. You can download and use them to interact with the Qualification Testnet.
